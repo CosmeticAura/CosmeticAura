@@ -36,12 +36,3 @@ A skill that shows you what is filling your context window before you have typed
 ![Python](https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CosmeticAura&show_icons=true&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef&icon_color=ff6b6b">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmeticAura&show_icons=true&hide_border=true&bg_color=ffffff&text_color=57606a&title_color=1f2328&icon_color=e14b4b" height="160" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmeticAura&layout=compact&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmeticAura&layout=compact&hide_border=true&bg_color=ffffff&text_color=57606a&title_color=1f2328" height="160" alt="Top languages">
-</picture>

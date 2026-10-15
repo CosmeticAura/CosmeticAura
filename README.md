@@ -1,15 +1,47 @@
-# Hector
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Hector" width="100%">
+</picture>
 
-I build small Mac apps and tools for AI coding agents.
+I build Mac apps and tools for AI coding agents. Almost everything here started as something I wanted on my own machine, so it gets used every day before it gets published.
 
-## Projects
+<img src="rule.svg" width="100%" alt="">
 
-- [Cosmetics](https://github.com/CosmeticAura/cosmetics): docks, notch, menu bar and launcher for macOS, in one app.
-- [contextoptimize](https://github.com/CosmeticAura/contextoptimize): a Claude Code skill that shows what is filling your context window and frees it safely.
+### Cosmetics
 
-## Stack
+[![Swift](https://img.shields.io/badge/Swift-FF6B6B?style=flat-square&logo=swift&logoColor=white)](https://github.com/CosmeticAura/cosmetics)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-FFB357?style=flat-square&logo=swift&logoColor=white)](https://github.com/CosmeticAura/cosmetics)
+[![macOS](https://img.shields.io/badge/macOS%2014%2B-A78BFA?style=flat-square&logo=apple&logoColor=white)](https://github.com/CosmeticAura/cosmetics)
 
-Swift and SwiftUI for apps. Python for data and tooling.
+One app that replaces the parts of macOS I kept fighting with. Configurable docks, an app launcher, a menu bar manager, a notch panel and a video wallpaper, with no dependencies and nothing phoning home.
 
-<img src="https://github-readme-stats.vercel.app/api?username=CosmeticAura&show_icons=false&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef&icon_color=6b9bff" height="150" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmeticAura&layout=compact&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef" height="150" alt="Top languages">
+**[Repository](https://github.com/CosmeticAura/cosmetics)**
+
+### contextoptimize
+
+[![Python](https://img.shields.io/badge/Python-4ECDC4?style=flat-square&logo=python&logoColor=white)](https://github.com/CosmeticAura/contextoptimize)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code%20skill-A78BFA?style=flat-square)](https://github.com/CosmeticAura/contextoptimize)
+[![MIT](https://img.shields.io/badge/MIT-FF6B6B?style=flat-square)](https://github.com/CosmeticAura/contextoptimize/blob/main/LICENSE)
+
+A skill that shows you what is filling your context window before you have typed anything, then frees it. It measures memory files, skill and agent descriptions, plugins, hooks and MCP servers, gives you the five biggest costs with the tokens each fix saves, and applies only what you approve. Nothing is deleted, it moves to a dated archive.
+
+**[Repository](https://github.com/CosmeticAura/contextoptimize)**
+
+<img src="rule.svg" width="100%" alt="">
+
+### Built with
+
+![Swift](https://img.shields.io/badge/Swift-FF6B6B?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FFB357?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CosmeticAura&show_icons=true&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef&icon_color=ff6b6b">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmeticAura&show_icons=true&hide_border=true&bg_color=ffffff&text_color=57606a&title_color=1f2328&icon_color=e14b4b" height="160" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmeticAura&layout=compact&hide_border=true&bg_color=0b0b0d&text_color=9a9ca4&title_color=ececef">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmeticAura&layout=compact&hide_border=true&bg_color=ffffff&text_color=57606a&title_color=1f2328" height="160" alt="Top languages">
+</picture>
